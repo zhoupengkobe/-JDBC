@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="D:/【he11oworld.com】尚学堂_高淇_java基础300集史上最全最深最细视频教程/第三季_尚学堂_高琪_java基础300集史上最全最深最细视频教程_第三季(208-300集)/JDBC驱动包(oracle和mysql)/JDBC驱动包(oracle和mysql)/mysql/mysql-connector-java-5.1.25-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
